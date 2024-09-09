@@ -1,0 +1,16 @@
+terraform/.terraform
+terraform.tfstate
+terraform.tfstate.backup
+.DS_Store
+*.swp
+.vscode
+.terraform
+.terraform.lock.hcl
+TerminateEC2.zip
+tatacomm.pub
+tatacomm
+prod.tfvars
+CopyClusterSnapshot.zip
+DeleteCloudWatchAlarm.zip
+
+
